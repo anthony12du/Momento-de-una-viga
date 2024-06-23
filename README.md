@@ -1,2 +1,4 @@
-# Momento-de-una-viga
-Uso de prompt para crear una calculadora de uso para calcular el momento de una viga
+# Momento de una viga
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Anthony-Andr-s/pen/oNRdyGE](https://codepen.io/Anthony-Andr-s/pen/oNRdyGE).
+
